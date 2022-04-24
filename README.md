@@ -5,10 +5,6 @@
 
 
 
-Contract number
+Contract number:+8619113431059
 
-+8619113431059
-
-Contract email
-
-1483446505@qq.com
+Contract email:1483446505@qq.com
